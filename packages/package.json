@@ -36,7 +36,7 @@
     "secp256k1": "^4.0.0",
     "styled-components": "^5.3.3",
     "vite-compatible-readable-stream": "^3.6.0",
-    "ws": "^7.5.5"
+    "ws": "^7.5.10"
   },
   "devDependencies": {
     "@sentry/browser": "^6.14.1",
@@ -61,7 +61,7 @@
     "ts-node": "^10.4.0",
     "tsconfig-paths": "^3.11.0",
     "typescript": "^4.4.4",
-    "vite": "^2.6.14",
+    "vite": "^2.9.18",
     "vite-plugin-svgr": "^0.5.1",
     "vite-tsconfig-paths": "^3.3.17",
     "vitest": "^0.0.134",
